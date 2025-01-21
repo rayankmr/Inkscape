@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Logo Design 1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="378"
+     inkscape:cy="470.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient12"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d40000;stop-opacity:1;"
+         offset="0"
+         id="stop12" />
+      <stop
+         style="stop-color:#d4ae00;stop-opacity:1;"
+         offset="1"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12"
+       id="linearGradient13"
+       x1="74.125708"
+       y1="106.3488"
+       x2="143.45274"
+       y2="106.3488"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12"
+       id="linearGradient15"
+       x1="123.67152"
+       y1="126.76022"
+       x2="84.03466"
+       y2="134.9623"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="fill:url(#linearGradient15);fill-opacity:1;stroke:none;stroke-width:0.102015;stroke-opacity:0.310433"
+       d="M 103.8164 95.325448 A 39.63649 39.63649 0 0 0 64.180062 134.9623 A 39.63649 39.63649 0 0 0 103.8164 174.59865 A 39.63649 39.63649 0 0 0 143.45274 134.9623 A 39.63649 39.63649 0 0 0 103.8164 95.325448 z M 103.8164 115.14388 A 19.818246 19.818246 0 0 1 123.63483 134.9623 A 19.818246 19.818246 0 0 1 103.8164 154.78022 A 19.818246 19.818246 0 0 1 83.997974 134.9623 A 19.818246 19.818246 0 0 1 103.8164 115.14388 z " />
+    <path
+       id="path6"
+       style="fill:url(#linearGradient13);fill-opacity:1;stroke:none;stroke-width:0.0765115;stroke-opacity:0.310433"
+       d="M 143.42019 38.086047 C 132.47945 38.086047 123.67152 46.893977 123.67152 57.834713 L 123.67152 134.9623 A 19.818246 19.818246 0 0 1 103.85309 154.78022 A 19.818246 19.818246 0 0 1 84.034664 134.9623 A 19.818246 19.818246 0 0 1 100.94423 115.36453 A 29.727364 29.727364 0 0 0 74.125708 144.88418 A 29.727364 29.727364 0 0 0 103.85309 174.61156 A 29.727364 29.727364 0 0 0 107.07098 174.42243 A 39.63649 39.63649 0 0 0 143.45274 134.9623 L 143.42019 38.086047 z " />
+  </g>
+</svg>
